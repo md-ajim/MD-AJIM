@@ -10,20 +10,21 @@
 
 </div>
 
-## 📈 GitHub Analytics  
-
 <div align="center">
+  
+# 👨‍💻 MD AJIM  
+### *Full Stack Developer | Authentication Specialist | UI Craftsman*  
+`Building digital experiences with precision and passion`  
 
-<br>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat&logo=vercel)](https://ajim-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/md-ajim)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:mdajim@gmail.com)
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=md-ajim&theme=modern-lilac2&hide_border=true&border_radius=8" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/md-ajim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=modern-lilac2&hide_border=true&border_radius=8" alt="Top Languages">
-  </a>
 </div>
+
+---
+
+## 📈 GitHub Analytics  
 
 <div align="center">
   
@@ -32,11 +33,13 @@
 
 </div>
 
-## 🛠️ Technical Expertise
+---
 
-### **Core Technologies**
+## 🛠️ Tech Stack  
+
+### **Core Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,drf,javascript,react,nextjs,nextauth,tailwind,shadcnui" />
 </p>
 
 ### **Specializations**  
@@ -44,45 +47,23 @@
   <img src="https://skillicons.dev/icons?i=jwt,oauth,stripe,git,postman,vscode" />
 </p>
 
-### **E-Commerce & Tools**
+---
+
+## 🏆 Featured Projects  
+
 <div align="center">
-  
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Square](https://img.shields.io/badge/Square-28C101?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-## **Featured Projects**
-
-### 🔐 [Advanced Authentication System](https://github.com/md-ajim)
-> Comprehensive auth solution with Django + Next.js featuring OTP, JWT, OAuth, and custom admin panel
-
-### 💼 [Modern Admin Dashboard](https://github.com/md-ajim)
-> Redesigned Django admin interface using Unfold for enhanced usability and aesthetics
-
-### 🛍️ [ShopPlus E-commerce Platform](https://github.com/md-ajim)
-> Full-featured online store with Next.js, Tailwind, and integrated payment solutions
-
-## **Current Focus**
-- Implementing advanced API patterns with Django REST Framework
-- Enhancing UI micro-interactions with Framer Motion
-- Optimizing CI/CD pipelines for full-stack deployments
-
-## **Let's Collaborate**
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajim-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ajim-a3a7b027a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdajim@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-ajim)
+| Project | Description | Tech |  
+|---------|-------------|------|  
+| **[SecureAuth Pro](https://github.com/md-ajim/auth-system)** | Enterprise-grade auth system | Django · Next.js · JWT · OTP | 
+| **[ShopPlus](https://github.com/md-ajim/shopplus)** | Modern e-commerce platform | Next.js · Stripe · Framer Motion |  
+| **[Unfold Admin](https://github.com/md-ajim/django-admin-unfold)** | Custom Django admin dashboard | Django · Unfold · Tailwind |  
 
 </div>
 
 ---
 
-<div align="center">
-  <em>With 5+ years in design and development, I bridge creativity with technical excellence to build exceptional digital experiences.</em>
-</div>
+## 🎯 Current Focus  
 
+```text
+🔄 API Architecture  ┃  🎨 UI Micro-interactions  ┃  ☁️ Cloud Deployment
