@@ -1,8 +1,18 @@
-# <div align="center">👋 Hello, I'm MD AJIM</div>
+<div align="center">
+  
+# 👨‍💻 MD AJIM  
+### *Full Stack Developer | Authentication Specialist | UI Craftsman*  
+`Building digital experiences with precision and passion`  
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat&logo=vercel)](https://ajim-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/md-ajim)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:mdajim@gmail.com)
+
+</div>
+
+## 📈 GitHub Analytics  
 
 <div align="center">
-  <strong>Full Stack Developer</strong> · UI/UX Enthusiast · Authentication Specialist · E-commerce Engineer
-</div>
 
 <br>
 
@@ -15,16 +25,24 @@
   </a>
 </div>
 
+<div align="center">
+  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+</div>
+
 ## 🛠️ Technical Expertise
 
 ### **Core Technologies**
-<div align="center">
-  
-| Backend & Databases       | Frontend & UI           | Authentication        |
-|---------------------------|-------------------------|-----------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-E10098?style=flat&logo=framer&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth.js-0A0A0A?style=flat) ![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,tailwind,mysql" />
+</p>
 
-</div>
+### **Specializations**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jwt,oauth,stripe,git,postman,vscode" />
+</p>
 
 ### **E-Commerce & Tools**
 <div align="center">
