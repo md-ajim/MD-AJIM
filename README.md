@@ -5,7 +5,6 @@
 🛠️ Always learning, always evolving!
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=md-ajim&repo=github-readme-stats)](https://github.com/md-ajim/github-readme-stats)
 
 ## 💻 Tech Stack I Love Working With
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true)](https://github.com/md-ajim/github-readme-stats)
