@@ -4,13 +4,8 @@
   🎯 Full Stack Developer | 🌐 UI/UX Lover | 🔐 Authentication Specialist | 🛒 E-commerce Engineer  
 </p>
 
-<p align="center">
-  <a href="https://github.com/md-ajim">
-    <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=radical" alt="md-ajim's GitHub Stats"/>
-  </a>
-</p>
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-ajim&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=radical&hide_border=true)](https://github.com/md-ajim)  
 
 ## 🧰 Tech Stack I Love Working With
 
