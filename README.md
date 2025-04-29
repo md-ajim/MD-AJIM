@@ -1,83 +1,104 @@
-# 👨‍💻 Hi, I'm MD AJIM 
+<h1 align="center">👋 Hi there! I'm MD AJIM</h1>
 
-**🚀 Full Stack Developer | Python & JavaScript Specialist | UI/UX Enthusiast**  
-Building scalable web apps with clean code & pixel-perfect interfaces.  
-
----
-
-## 📊 GitHub Stats  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-ajim&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=radical&hide_border=true)](https://github.com/md-ajim)  
-
----
-
-## 🛠️ Tech Stack  
-
-### **🌐 Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss) 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)  
-
-### **⚙️ Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python) 
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)  
-![Django REST](https://img.shields.io/badge/Django_REST-FF1709?logo=django) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)  
-
-### **🔐 Auth & Security**  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens) 
-![Next-Auth](https://img.shields.io/badge/Next_Auth-000000?logo=auth0)  
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?logo=google)  
-
-### **🛒 E-Commerce**  
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe) 
-![Square](https://img.shields.io/badge/Square-3E4348?logo=square)  
-
-### **🧰 Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git) 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)  
-
----
-
-## 🏆 Featured Projects  
-
-| Project | Tech Stack | Highlights |  
-|---------|------------|------------|  
-| **[SecureAuth Pro](https://github.com/md-ajim/auth-system)** | Django, Next.js, JWT | ✅ Google OAuth, OTP, Admin Panel |  
-| **[ShopPlus E-Commerce](https://github.com/md-ajim/shopplus)** | React, Stripe, Tailwind | 🛒 Payment Gateway, Animations |  
-| **[Unfold Admin Dashboard](https://github.com/md-ajim/django-admin-unfold)** | Django, Unfold | 🎨 Custom Admin UI with Dark Mode |  
-
----
-
-## 🌱 Learning & Goals  
-
-- **🚀 Microservices Architecture**  
-- **📱 React Native for Cross-Platform Apps**  
-- **☁️ AWS & Docker Deployment**  
-
----
-
-## 📬 Let's Collaborate!  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?logo=vercel)](https://ajim-dev.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/md-ajim)  
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:mdajim@gmail.com)  
-
----
-
-### 🎨 **Beyond Code**  
-- 🖌️ Part-time **Graphic Designer** (Photoshop + Illustrator)  
-- ☕ **Coffee Connoisseur** & **Tech Blogger**  
-- ♟️ Chess Player & Open-Source Contributor  
-
-⭐ **Fun Fact:** I automate my coffee machine with Python!  
-
----
-
-<p align="center"> 
-  <i>✨ "Code is poetry, and the browser is my canvas." ✨</i>  
+<p align="center">
+  🎯 Full Stack Developer | 🌐 UI/UX Lover | 🔐 Authentication Specialist | 🛒 E-commerce Engineer  
 </p>
+
+<p align="center">
+  <a href="https://github.com/md-ajim">
+    <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=radical" alt="md-ajim's GitHub Stats"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack I Love Working With
+
+### 🚀 Languages & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🎨 Frontend Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--Tailwind-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+### 🔐 Authentication & Security
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### 🛒 E-Commerce & Payment
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Square-28C101?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects & Highlights
+
+- 🔐 **Advanced Full-Stack JWT Authentication**  
+  Secure auth system using Django + Next.js with OTP, JWT, Google OAuth, and elegant admin panel
+
+- 💼 **Modern Admin Dashboard**  
+  Fully customized Django admin using **Unfold** — clean, minimal, and highly functional
+
+- 🛍️ **ShopPlus** — E-commerce Platform  
+  Built with Next.js, Tailwind CSS, Framer Motion and integrated with Stripe & Square payments
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧠 Advanced REST API patterns with Django DRF  
+- 🎞️ Frontend micro-interactions using Framer Motion  
+- ☁️ CI/CD and cloud deployment for full-stack apps
+
+---
+
+## 📫 Let's Connect!
+
+<p>
+  <a href="https://ajim-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdajim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/md-ajim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Fun Facts
+
+- 📸 Experienced **graphics designer** since 2017  
+- 🎨 I blend design with logic to build stunning interfaces  
+- ☕ Code & coffee keep me going!
+
+---
+
+⭐️ *Thanks for visiting! Let’s build something amazing together.*
 
