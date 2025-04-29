@@ -80,6 +80,5 @@
 <div align="center">
   <em>With 5+ years in design and development, I bridge creativity with technical excellence to build exceptional digital experiences.</em>
 </div>
-  
 
 
