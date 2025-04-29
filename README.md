@@ -7,7 +7,7 @@
 ---
 
 ## 💻 Tech Stack I Love Working With
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-ajim)](https://github.com/md-ajim/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true)](https://github.com/md-ajim/github-readme-stats)
 
 ### 🧠 Languages & Backend
 - 🐍 **Python**
