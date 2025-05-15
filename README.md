@@ -67,27 +67,6 @@
 
 ---
 
-## 🚀 Projects & Highlights
-
-- 🔐 **Advanced Full-Stack JWT Authentication**  
-  Modular system using Django & Next.js | Features: JWT, Google OAuth, OTP, Admin Panel
-
-- 💼 **Modern Admin Dashboard**  
-  Fully customized Django admin with Unfold — clean, minimal, responsive UI
-
-- 🛍️ **ShopPlus** — E-commerce Platform  
-  Built with Next.js, Tailwind CSS, Framer Motion | Stripe & Square integrated
-
----
-
-## 🌱 Currently Exploring
-
-- 🧠 Advanced REST API architecture in Django DRF  
-- 🎞️ Next-level animations with Framer Motion  
-- ☁️ CI/CD automation & cloud deployment
-
----
-
 ## 📫 Let's Connect!
 
 <p>
