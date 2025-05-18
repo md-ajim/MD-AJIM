@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Material--Tailwind-06B6D4?style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/Shadcn_UI-0EA5E9?style=for-the-badge"/>
-<!--   <img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
 ### 🔐 Authentication & Security
