@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm MD AJIM</h1>
 
 <p align="center">
-  🎯 Full Stack Developer | 🌐 UI/UX Lover | 🔐 Auth Specialist | 🛒 E-commerce Engineer  
+  🎯 Full Stack Developer | 🌐 UI/UX Lover | 🔐 Auth Specialist | 🛒 E-commerce Developer 
 </p>
 
 <div align="center">
