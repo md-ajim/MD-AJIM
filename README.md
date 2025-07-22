@@ -4,12 +4,16 @@
   🎯 Full Stack Developer | 🌐 UI/UX Lover | 🔐 Auth Specialist | 🛒 E-commerce Developer 
 </p>
 
+<!--
 <div align="center">
   
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
+
+ -->
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
