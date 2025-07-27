@@ -95,3 +95,33 @@
 ⭐️ *Thanks for stopping by! Let’s build something impactful together.*
 
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=28A8E0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+AJIM;Full+Stack+Developer;UI%2FUX+Enthusiast;E-commerce+Specialist" alt="Typing Animation" />
+</h1>
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=md-ajim&theme=radical&no-frame=true&row=1&column=6)
+
+</div>
+
+<div align="center">
+  
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak Stats](https://streak-stats.demolab.com?user=md-ajim&theme=radical&hide_border=true) |
+  |---|---|
+  
+</div>
+
+## 🔥 Latest Projects
+
+<div align="center">
+  
+  [![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=md-ajim&repo=ecommerce&theme=radical)](https://github.com/md-ajim/ecommerce)
+  [![Auth System](https://github-readme-stats.vercel.app/api/pin/?username=md-ajim&repo=auth-system&theme=radical)](https://github.com/md-ajim/auth-system)
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/output/github-contribution-grid-snake.svg" alt="Coding Activity" />
+</p>
