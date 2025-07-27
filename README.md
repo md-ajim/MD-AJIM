@@ -21,22 +21,6 @@
 
 ---
 
-
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=md-ajim&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
-<!--   <a href="https://github.com/md-ajim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a> -->
-</p>
-
-
-
----
-
 ## 💻 Tech Stack I Love Working With
 
 ### 🚀 Languages & Backend
