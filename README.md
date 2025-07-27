@@ -87,5 +87,99 @@
 ⭐️ *Thanks for stopping by! Let’s build something impactful together.*
 
 
+<div align="center">
+  <h1>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
+    Hi, I'm MD AJIM
+  </h1>
+  <h3>Full Stack Developer | UI/UX Specialist | Authentication Expert</h3>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://ajim-dev.vercel.app/">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="32px" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdajim@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32px" alt="Email"/>
+  </a>
+  <a href="https://github.com/md-ajim">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="32px" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+## <div align="center">📊 GitHub Analytics</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+---
+
+## <div align="center">🛠 Technology Stack</div>
+
+### **Backend Development**
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django" title="Django"/>
+  <img src="https://img.icons8.com/ios/50/000000/django-rest-framework.png" alt="DRF" title="Django REST"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/motion-graphics.png" alt="Framer Motion" title="Framer Motion"/>
+</div>
+
+### **Authentication & Security**
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" title="JWT"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-auth0-an-authentication-and-authorization-as-a-service-company-logo-shadow-tal-revivo.png" alt="NextAuth" title="NextAuth"/>
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google OAuth" title="Google OAuth"/>
+</div>
+
+### **E-commerce & Payments**
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" title="Stripe"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/square.png" alt="Square" title="Square"/>
+</div>
+
+### **Development Tools**
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/>
+</div>
+
+---
+
+## <div align="center">🌟 Professional Highlights</div>
+
+- 💻 Full stack development with optimized architecture
+- 🔐 Enterprise-grade authentication systems
+- 🎨 Pixel-perfect UI/UX implementations
+- 🛒 Scalable e-commerce solutions
+- ✏️ 6+ years of graphic design experience
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <p>✨ Let's build something amazing together ✨</p>
+</div>
+
 
 
