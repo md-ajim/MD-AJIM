@@ -88,98 +88,92 @@
 
 
 <div align="center">
-  <h1>
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
-    Hi, I'm MD AJIM
-  </h1>
-  <h3>Full Stack Developer | UI/UX Specialist | Authentication Expert</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=MD%20AJIM&fontSize=40&fontAlignY=35" alt="Header"/>
+  
+  <h3>Full Stack Developer | UI/UX Architect | Security Specialist</h3>
+  
+  <div>
+    <a href="https://ajim-dev.vercel.app/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32px" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mdajim@gmail.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32px" alt="Email"/>
+    </a>
+  </div>
 </div>
 
 ---
 
+## <div align="center">📈 Development Analytics</div>
+
 <div align="center">
-  <a href="https://ajim-dev.vercel.app/">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="32px" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mdajim@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32px" alt="Email"/>
-  </a>
-  <a href="https://github.com/md-ajim">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="32px" alt="GitHub"/>
-  </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=5865F2&text_color=555"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=5865F2&text_color=555"/>
 </div>
 
 ---
 
-## <div align="center">📊 GitHub Analytics</div>
+## <div align="center">🛠 Core Technologies</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=default&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=default&hide_border=true"/>
-</div>
-
----
-
-## <div align="center">🛠 Technology Stack</div>
-
-### **Backend Development**
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django" title="Django"/>
-  <img src="https://img.icons8.com/ios/50/000000/django-rest-framework.png" alt="DRF" title="Django REST"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-</div>
-
-### **Frontend Development**
-<div align="center">
-  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/motion-graphics.png" alt="Framer Motion" title="Framer Motion"/>
-</div>
-
-### **Authentication & Security**
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" title="JWT"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-auth0-an-authentication-and-authorization-as-a-service-company-logo-shadow-tal-revivo.png" alt="NextAuth" title="NextAuth"/>
-  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google OAuth" title="Google OAuth"/>
-</div>
-
-### **E-commerce & Payments**
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/stripe.png" alt="Stripe" title="Stripe"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/square.png" alt="Square" title="Square"/>
-</div>
-
-### **Development Tools**
-<div align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="JWT" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="48" height="48" alt="Stripe" />
+      <br>Stripe
+    </td>
+  </tr>
+</table>
 
 ---
 
-## <div align="center">🌟 Professional Highlights</div>
+## <div align="center">✨ Key Expertise</div>
 
-- 💻 Full stack development with optimized architecture
-- 🔐 Enterprise-grade authentication systems
-- 🎨 Pixel-perfect UI/UX implementations
-- 🛒 Scalable e-commerce solutions
-- ✏️ 6+ years of graphic design experience
+- **Full Stack Development**: End-to-end web application development
+- **Authentication Systems**: Secure JWT and OAuth implementations  
+- **UI/UX Design**: Intuitive and responsive interfaces
+- **E-commerce Solutions**: Payment integrations and shopping experiences
+- **Database Architecture**: Optimized data modeling and queries
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=5865F2&style=flat-square" alt="Profile views"/>
 </div>
 
 <div align="center">
-  <p>✨ Let's build something amazing together ✨</p>
+  <p>Let's connect and build something great!</p>
 </div>
-
-
 
