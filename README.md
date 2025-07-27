@@ -89,4 +89,29 @@
 
 ---
 
+## 🧠 Fun & Personal Facts
+
+### 🧑‍💻 Personal Workstyle & Values
+- 💡 I believe **clarity in code** leads to clarity in thinking  
+- 🧱 I enjoy building **modular and scalable architecture**  
+- ⚙️ I treat **bugs as puzzles**, not problems  
+- 🎧 I often code with **instrumental or ambient music**  
+
+### 🌐 Curiosity & Exploration
+- 🌟 Fascinated by **how things work under the hood**  
+- 🧭 Curious about **DevOps**, system internals, and **CI/CD pipelines**  
+- 📦 I enjoy turning **ideas into products** that people love to use  
+
+### 💬 Communication & Collaboration
+- 🗣 I love **explaining technical concepts** in simple, beginner-friendly ways  
+- 📞 Comfortable in both **client-facing** and **team-driven** environments  
+- 🧠 Always open to **code reviews**, constructive feedback, and **collaborative growth**  
+
+### ⚡ Personality & Hobbies
+- 🎮 Occasionally unwind with **strategy games** or **UI/UX challenges**  
+- ✈️ Dreaming of **traveling and coding remotely** around the world  
+- 📷 Passionate about **photography** — even in UI screenshots  
+- 🧘 I believe a **calm and focused mind** writes better code  
+
+
 ⭐️ *Thanks for stopping by! Let’s build something impactful together.*
