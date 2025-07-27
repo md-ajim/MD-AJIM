@@ -77,10 +77,19 @@
 
 ## 🧠 Fun & Personal Facts
 
-### 🧑‍💻 Personal Workstyle & Values
+
+- 📸 Experienced **graphics designer** since 2017  
 - 🧩 I blend **creativity with logic** to craft intuitive UI/UX  
 - ☕ Running on **clean code and good coffee**  
 - 🌍 I love creating **products that solve real-world problems**  
+- 🚀 Always exploring **new technologies** to stay ahead in full-stack development  
+- 📚 Lifelong learner — currently diving deeper into **Docker and system design**  
+- 🎯 Obsessed with **performance optimization** and pixel-perfect designs  
+- ✍️ I enjoy **technical writing** and documenting for future developers  
+- 🧪 Passionate about **debugging and problem-solving** challenges  
+
+
+### 🧑‍💻 Personal Workstyle & Values
 - 💡 I believe **clarity in code** leads to clarity in thinking  
 - 🧱 I enjoy building **modular and scalable architecture**  
 - ⚙️ I treat **bugs as puzzles**, not problems  
