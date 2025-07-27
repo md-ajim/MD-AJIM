@@ -78,7 +78,6 @@
 ## 🧠 Fun & Personal Facts
 
 ### 🧑‍💻 Personal Workstyle & Values
-- 📸 Experienced **graphics designer** since 2017  
 - 🧩 I blend **creativity with logic** to craft intuitive UI/UX  
 - ☕ Running on **clean code and good coffee**  
 - 🌍 I love creating **products that solve real-world problems**  
