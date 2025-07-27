@@ -87,93 +87,98 @@
 ⭐️ *Thanks for stopping by! Let’s build something impactful together.*
 
 
+
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/wave.gif" width="30px" height="30px">
+  Hi there! I'm MD AJIM
+</h1>
+
+<h3 align="center">Full Stack Developer | UI/UX Specialist | Auth Solutions Expert</h3>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=MD%20AJIM&fontSize=40&fontAlignY=35" alt="Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Crafting+Seamless+Digital+Experiences;Turning+Ideas+into+Functional+Reality;Clean+Code+%E2%9A%99%EF%B8%8F+Beautiful+Design" alt="Typing SVG" />
+</div>
+
+---
+
+### 🛠️ Tech Stack Showcase
+
+#### **Frontend & UI/UX**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/react-original.svg" alt="React" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/tailwindcss-original.svg" alt="Tailwind" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/framer-motion.svg" alt="Framer Motion" width="50" height="50" />
+</div>
+
+#### **Backend & Database**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/django-original.svg" alt="Django" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/drf-original.svg" alt="DRF" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/mysql-original.svg" alt="MySQL" width="50" height="50" />
+</div>
+
+#### **Authentication & Security**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/jwt-original.svg" alt="JWT" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/nextauth-original.svg" alt="NextAuth" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/oauth-original.svg" alt="OAuth" width="50" height="50" />
+</div>
+
+#### **E-commerce & Payments**
+<div align="left">
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/stripe-original.svg" alt="Stripe" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/square-payment.svg" alt="Square" width="50" height="50" />
+</div>
+
+---
+
+### 📊 Development Analytics
+
+<div align="center">
   
-  <h3>Full Stack Developer | UI/UX Architect | Security Specialist</h3>
-  
-  <div>
-    <a href="https://ajim-dev.vercel.app/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32px" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mdajim@gmail.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32px" alt="Email"/>
-    </a>
-  </div>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&langs_count=8) |
+|-------------|-------------|
+
+| ![Streak Stats](https://streak-stats.demolab.com?user=md-ajim&theme=nightowl&hide_border=true&background=00000000) | ![Profile Views](https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=0e75b6&style=flat) |
+|-------------|-------------|
+
 </div>
 
 ---
 
-## <div align="center">📈 Development Analytics</div>
+### 🌐 Connect With Me
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=5865F2&text_color=555"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=5865F2&text_color=555"/>
+  <a href="https://ajim-dev.vercel.app/">
+    <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/portfolio.svg" alt="Portfolio" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-ajim-a3a7b027a/">
+    <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mdajim@gmail.com">
+    <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/gmail-original.svg" alt="Gmail" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/md-ajim">
+    <img src="https://raw.githubusercontent.com/md-ajim/md-ajim/main/icons/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
 </div>
 
 ---
 
-## <div align="center">🛠 Core Technologies</div>
+### 💡 Professional Highlights
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="JWT" />
-      <br>JWT
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="48" height="48" alt="Stripe" />
-      <br>Stripe
-    </td>
-  </tr>
-</table>
-
----
-
-## <div align="center">✨ Key Expertise</div>
-
-- **Full Stack Development**: End-to-end web application development
-- **Authentication Systems**: Secure JWT and OAuth implementations  
-- **UI/UX Design**: Intuitive and responsive interfaces
-- **E-commerce Solutions**: Payment integrations and shopping experiences
-- **Database Architecture**: Optimized data modeling and queries
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=5865F2&style=flat-square" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <p>Let's connect and build something great!</p>
-</div>
+```mermaid
+graph LR
+    A[UI/UX Design] --> B(React & Next.js)
+    B --> C[Authentication Systems]
+    C --> D[E-commerce Solutions]
+    D --> E[Full Stack Implementation]
+    E --> F[Deployment & Optimization]
 
