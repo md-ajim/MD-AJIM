@@ -7,12 +7,19 @@
 
 
 
+---
+
+## <div align="center">📈 GitHub Metrics</div>
+
 <div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=algolia&hide_border=true&bg_color=00000000) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Streak Stats](https://streak-stats.demolab.com?user=md-ajim&theme=algolia&hide_border=true)                                                                        | ![Profile Views](https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=0e75b6&style=flat)                                              |
 
 </div>
+
+---
 
 
 
