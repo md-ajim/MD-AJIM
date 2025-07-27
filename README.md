@@ -86,7 +86,6 @@
 - 🎯 Obsessed with **performance optimization** and pixel-perfect designs  
 - ✍️ I enjoy **technical writing** and documenting for future developers  
 - 🧪 Passionate about **debugging and problem-solving** challenges  
-- 🤝 I believe in **team collaboration**, **clear communication**, and writing **developer-friendly code**  
 
 ---
 
