@@ -111,3 +111,81 @@
 ---
 
 ⭐️ *Thanks for stopping by! Let’s build something impactful together.*
+
+<h1 align="center">👋 Hi there! I'm MD AJIM</h1>
+
+<p align="center">
+  🚀 Full-Stack Developer | 🧠 UI/UX Lover | 🔐 Auth Specialist | 🛍️ E-commerce Builder  
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 🎯 Result-driven full-stack developer with real-world experience
+- ⚙️ I specialize in Django, DRF, React, Next.js & scalable systems
+- 💡 Passionate about clean code, security-first design & performance
+- 🧠 Currently diving deep into Docker, System Design & CI/CD
+- 🛠️ Building products that solve real-world problems
+
+---
+
+### 🛠️ Tech Stack I Love Working With
+
+#### 🔹 Languages & Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-red?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### 🔹 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-black?style=flat&logo=Vercel)
+
+#### 🔐 Authentication
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
+![NextAuth](https://img.shields.io/badge/-NextAuth.js-blue?style=flat&logo=auth0)
+![Google OAuth](https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat&logo=google)
+
+#### 💳 Payments
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Square](https://img.shields.io/badge/-Square-black?style=flat)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+
+---
+
+### 📌 Featured Projects
+
+- 🔐 [Full-Stack JWT Authentication](https://github.com/md-ajim/Full-Stack-JWT-Authentication)
+- 🛍️ [Django Admin Customization](https://github.com/md-ajim/django-admin-custom)
+- 🎯 [Advanced Product Search Filter System](https://github.com/md-ajim/Advanced-Product-Search-Filter-System)
+- 💳 [Stripe Payment Integration](https://github.com/md-ajim/Payment-Integration-Stripe)
+
+---
+
+### 📫 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ajim.dev-121212?style=flat&logo=vercel)](https://ajim-dev.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ajim-4a3a7a200)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajim.dev.bd@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/md-ajim)
+
+---
+
+### 🌟 Fun & Personal Facts
+- 👨‍🎨 Experienced graphics designer since 2017
+- ☕ Running on clean code and good coffee
+- 📚 Lifelong learner — always exploring new tools & trends
+- 💭 Dreaming of coding remotely from around the world
+- 🧩 I blend logic and creativity to build things users love
+
+---
+
+Thanks for stopping by!  
+*Let’s build something impactful together.* 🚀
+
