@@ -21,6 +21,17 @@
 
 ---
 
+### 🧑‍💻 About Me
+- 🎯 Result-driven full-stack developer with real-world experience
+- ⚙️ I specialize in Django, DRF, React, Next.js & scalable systems
+- 💡 Passionate about clean code, security-first design & performance
+- 🧠 Currently diving deep into Docker, System Design & CI/CD
+- 🛠️ Building products that solve real-world problems
+
+---
+
+---
+
 ## 💻 Tech Stack I Love Working With
 
 ### 🚀 Languages & Backend
@@ -75,40 +86,17 @@
 
 ---
 
-## 🧠 Fun & Personal Facts
+---
 
-
-- 📸 Experienced **graphics designer** since 2017  
-- 🧩 I blend **creativity with logic** to craft intuitive UI/UX  
-- ☕ Running on **clean code and good coffee**  
-- 🌍 I love creating **products that solve real-world problems**  
-- 🚀 Always exploring **new technologies** to stay ahead in full-stack development  
-- 📚 Lifelong learner — currently diving deeper into **Docker and system design**  
-- 🎯 Obsessed with **performance optimization** and pixel-perfect designs  
-- ✍️ I enjoy **technical writing** and documenting for future developers  
-- 🧪 Passionate about **debugging and problem-solving** challenges  
-
-
-### 🧑‍💻 Personal Workstyle & Values
-- 💡 I believe **clarity in code** leads to clarity in thinking  
-- 🧱 I enjoy building **modular and scalable architecture**  
-- ⚙️ I treat **bugs as puzzles**, not problems
-
-### 🌐 Curiosity & Exploration
-- 🌟 Fascinated by **how things work under the hood**  
-- 🧭 Curious about **DevOps**, system internals, and **CI/CD pipelines**  
-- 📦 I enjoy turning **ideas into products** that people love to use  
-
-### 💬 Communication & Collaboration
-- 🗣 I love **explaining technical concepts** in simple, beginner-friendly ways  
-- 📞 Comfortable in both **client-facing** and **team-driven** environments  
-- 🧠 Always open to **code reviews**, constructive feedback, and **collaborative growth**  
-
-### ⚡ Personality & Hobbies
-- ✈️ Dreaming of **traveling and coding remotely** around the world  
-- 🧘 I believe a **calm and focused mind** writes better code  
+### 🌟 Fun & Personal Facts
+- 👨‍🎨 Experienced graphics designer since 2017
+- ☕ Running on clean code and good coffee
+- 📚 Lifelong learner — always exploring new tools & trends
+- 💭 Dreaming of coding remotely from around the world
+- 🧩 I blend logic and creativity to build things users love
 
 ---
 
-⭐️ *Thanks for stopping by! Let’s build something impactful together.*
+Thanks for stopping by!  
+*Let’s build something impactful together.* 🚀
 
