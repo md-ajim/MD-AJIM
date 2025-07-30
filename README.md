@@ -100,32 +100,3 @@
 <div align="center" style="margin-top: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together+🚀" alt="Closing" />
 </div>
-
-
-<div align="center">
-  <h2 style="color: #38BDF8; border-bottom: 2px solid #38BDF8; display: inline-block; padding-bottom: 5px;">📊 GitHub Analytics</h2>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
-
-<div style="background: rgba(56, 189, 248, 0.1); padding: 20px; border-radius: 10px; border-left: 4px solid #38BDF8; flex: 1; min-width: 250px;">
-  
-### ⭐ Activity Metrics
-- **Total Stars:** `28`
-- **Total Commits:** `143`
-- **Pull Requests:** `1`
-- **Issues Opened:** `0`
-- **Contributed to (last year):** `0`
-
-</div>
-
-<div style="background: rgba(56, 189, 248, 0.1); padding: 20px; border-radius: 10px; border-left: 4px solid #38BDF8; flex: 1; min-width: 250px;">
-
-### 💻 Language Breakdown
-```text
-Jupyter Notebook ████████████ 75.83%
-JavaScript       ████         13.91%
-Python           █            3.31%
-CSS              █            3.01%
-HTML             █            3.00%
-TypeScript       ▎            0.96%
