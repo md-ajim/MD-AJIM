@@ -7,7 +7,7 @@
 
 ---
 
-## <div align="center">📊 GitHub Metrics</div>
+## <div align="center">📈 GitHub Metrics</div>
 
 <div align="center">
 
