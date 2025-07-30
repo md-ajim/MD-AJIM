@@ -1,19 +1,22 @@
-<h1 align="center">👋 Hi there! I'm MD AJIM</h1>
-
-<p align="center">
-  💻 Full-Stack Developer | 🧠 Django, DRF & Next.js Specialist | 🚀 Scalable Systems Builder <br/>
-  🛡️ Secure Auth | 🎯 Clean Code Advocate | ✨ Great UX Enthusiast
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+MD+AJIM" alt="Greeting" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/💻-Full Stack Developer-38BDF8?style=flat" alt="Full Stack Developer" />
+    <img src="https://img.shields.io/badge/🧠-Django%20|%20DRF%20|%20Next.js-38BDF8?style=flat" alt="Specialties" />
+    <img src="https://img.shields.io/badge/🚀-Scalable Systems-38BDF8?style=flat" alt="Scalable Systems" />
+  </p>
+</div>
 
 ---
 
-## <div align="center">📈 GitHub Metrics</div>
-
 <div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=algolia&hide_border=true&bg_color=00000000) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Streak Stats](https://streak-stats.demolab.com?user=md-ajim&theme=algolia&hide_border=true)                                                                        | ![Profile Views](https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=0e75b6&style=flat)                                              |
+  
+### 📊 GitHub Analytics
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://streak-stats.demolab.com?user=md-ajim&theme=transparent&hide_border=true&background=00000000&dates=ffffff&sideLabels=ffffff&currStreakLabel=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="Streak Stats" /> | <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
 
 </div>
 
@@ -93,86 +96,7 @@
 
 ---
 
-💬 Thanks for visiting!  
-Let’s build something meaningful together. 🚀
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+MD+AJIM" alt="Greeting" />
-  
-  <p>
-    <img src="https://img.shields.io/badge/💻-Full Stack Developer-38BDF8?style=flat" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/🧠-Django%20|%20DRF%20|%20Next.js-38BDF8?style=flat" alt="Specialties" />
-    <img src="https://img.shields.io/badge/🚀-Scalable Systems-38BDF8?style=flat" alt="Scalable Systems" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  
-### 📊 GitHub Analytics
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com?user=md-ajim&theme=transparent&hide_border=true&background=00000000&dates=ffffff&sideLabels=ffffff&currStreakLabel=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="Streak Stats" /> | <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div style="background: rgba(56, 189, 248, 0.1); padding: 15px; border-radius: 10px; border-left: 4px solid #38BDF8;">
-  
-- 🔭 Currently building **scalable web applications** with modern stacks  
-- 🌱 Learning **advanced system design** and **cloud architecture**  
-- 👯 Looking to collaborate on **open-source projects**  
-- 💬 Ask me about **Django optimizations** or **Next.js best practices**  
-- ⚡ Fun fact: **Former graphics designer** turned full-stack developer  
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🔧 Core Technologies
-<div align="center">
-  
-| Backend              | Frontend            | Databases        |
-|----------------------|---------------------|------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-</div>
-
-### 🧩 Additional Tools
-<div align="center" style="margin-top: 20px;">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajim-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ajim-a3a7b027a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdajim@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-ajim)
-
-</div>
-
----
 
 <div align="center" style="margin-top: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together+🚀" alt="Closing" />
 </div>
-
