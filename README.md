@@ -16,7 +16,7 @@
   
 | <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com?user=md-ajim&theme=transparent&hide_border=true&background=00000000&dates=ffffff&sideLabels=ffffff&currStreakLabel=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="Streak Stats" /> | <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
+| <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
 
 </div>
 
@@ -102,102 +102,3 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+MD+AJIM;Full-Stack+Developer;Django+%7C+Next.js+Specialist;Auth+System+Expert" alt="Animated Typing Header" />
-</div>
-
----
-
-<div align="center">
-  
-![Redmi Inspired Banner](https://placehold.co/1200x300/ff0000/white?text=Build+Secure+Scalable+Systems&font=roboto)
-
-</div>
-
----
-
-## 🔥 Tech Stack
-
-<div align="center">
-
-### 🛠️ Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 UI/UX
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=dark&bg_color=00000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=true" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=dark&bg_color=00000000&title_color=FF0000&text_color=FFFFFF&hide_border=true" width="300"> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-![GitHub Streak](https://streak-stats.demolab.com?user=md-ajim&theme=dark&hide_border=true&background=00000000&dates=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-
-### 🔐 Secure Auth System
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square)
-  
-Complete authentication solution with:
-- JWT token management
-- Google OAuth integration
-- Email verification
-- Custom admin dashboard
-
----
-
-### 🛒 E-Commerce Platform
-![Django REST](https://img.shields.io/badge/-DRF-ff1709?style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square)
-
-Full-featured online store with:
-- Product management
-- Payment processing
-- Order tracking
-- Admin portal
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF0000?style=for-the-badge)](https://ajim-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ajim-a3a7b027a/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdajim@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-ajim)
-
-</div>
-
----
-
-<div align="center">
-  
-![Footer](https://placehold.co/1200x100/ff0000/white?text=Let's+Build+Something+Amazing+Together&font=roboto)
-
-</div>
