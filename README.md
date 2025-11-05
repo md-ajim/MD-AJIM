@@ -60,7 +60,18 @@
 ### 💳 E-Commerce & Payment
 <p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Square-28C101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Typistic-0066CC?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🌍 Localization & Services
+<p>
+  <img src="https://img.shields.io/badge/Dakar-FFD700?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools
@@ -84,19 +95,17 @@
 
 ---
 
-## 🌟 Fun & Personal Facts
+## 🌟 Professional Highlights
 
-- 🎨 Experienced graphics designer since 2017  
-- ☕ Fuelled by clean code and strong coffee  
-- 🌱 Constant learner — always exploring new tech & tools  
-- 🌍 Dreaming of working remotely while exploring the world  
-- 🧠 Love blending logic & creativity to build products users love
+- 🎨 Experienced full-stack developer with design sensibilities since 2017  
+- ☕ Dedicated to clean code, scalable architecture, and exceptional user experiences  
+- 🌱 Continuous learner — always exploring cutting-edge technologies and best practices  
+- 🌍 Open to remote opportunities and global collaboration  
+- 🧠 Passionate about blending technical excellence with creative problem-solving
 
 ---
-
 
 <div align="center" style="margin-top: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together+🚀" alt="Closing" />
 </div>
-
 
