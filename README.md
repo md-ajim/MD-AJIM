@@ -10,8 +10,6 @@
 
 ---
 
-
-
 <div align="center">
 
 ## 🚀 My GitHub Analytics
@@ -22,9 +20,8 @@
 
 </div>
 
-
-
 ---
+
 
 ## 👨‍💻 About Me
 
