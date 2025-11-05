@@ -24,11 +24,11 @@
 
 ## 👨‍💻 About Me
 
-- ⚡ Passionate full-stack developer with a product-first mindset  
-- 🛠️ I specialize in **Django, DRF, React, Next.js** & scalable architecture  
-- 🔐 Advocate for **secure authentication** & **performance-driven systems**  
-- 🐳 Exploring DevOps tools — currently working with **Docker, CI/CD** & **System Design**  
-- 💬 I believe in building solutions that truly **solve real-world problems**
+- ⚡ Passionate full-stack developer with a **product-first mindset**  
+- 🛠️ Specialized in **Django, DRF, React, Next.js**, and **scalable architectures**  
+- 🔐 Advocate for **secure authentication**, **clean APIs**, and **performance-driven systems**  
+- 🐳 Exploring DevOps — currently focused on **Docker, AWS**, and **CI/CD pipelines**  
+- 💬 I believe in building impactful, reliable, and user-centered web applications  
 
 ---
 
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shadcn_UI-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Typist.js-1C1C1C?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ### 🔐 Authentication & Security
@@ -60,22 +61,12 @@
 ### 💳 E-Commerce & Payment
 <p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typistic-0066CC?style=for-the-badge"/>
 </p>
 
-### ☁️ Cloud & Infrastructure
+### 🧰 Tools & Cloud
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### 🌍 Localization & Services
-<p>
-  <img src="https://img.shields.io/badge/Dakar-FFD700?style=for-the-badge"/>
-</p>
-
-### 🧰 Tools
-<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -95,13 +86,13 @@
 
 ---
 
-## 🌟 Professional Highlights
+## 🌟 Fun & Personal Facts
 
-- 🎨 Experienced full-stack developer with design sensibilities since 2017  
-- ☕ Dedicated to clean code, scalable architecture, and exceptional user experiences  
-- 🌱 Continuous learner — always exploring cutting-edge technologies and best practices  
-- 🌍 Open to remote opportunities and global collaboration  
-- 🧠 Passionate about blending technical excellence with creative problem-solving
+- 🎨 Experienced graphics designer since 2017  
+- ☕ Fuelled by clean code and strong coffee  
+- 🌱 Constant learner — always exploring new technologies  
+- 🌍 Dreaming of building global SaaS platforms remotely  
+- 🧠 Love blending logic & creativity to craft intuitive products  
 
 ---
 
