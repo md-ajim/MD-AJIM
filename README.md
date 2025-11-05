@@ -11,17 +11,16 @@
 ---
 
 <div align="center">
-
-## 🚀 My GitHub Analytics
-
-| <img src="https://github-readme-stats-md-ajim.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8&custom_title=GitHub%20Stats" alt="GitHub Stats" /> | <img src="https://github-readme-stats-md-ajim.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
+  
+### 📊 GitHub Analytics
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
 
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
