@@ -26,7 +26,6 @@
 
 - ⚡ **Full-Stack Developer** with a focus on building secure and scalable production-grade applications.
 - 🛠️ Expert in **Django REST Framework** & **Next.js (App Router)**.
-- 🎨 **8+ Years of Graphic Design Experience**: I bridge the gap between complex backend logic and pixel-perfect UI/UX.
 - 🚀 **Performance Driven**: Specialized in optimizing database efficiency through Django ORM (**select_related/prefetch_related**).
 - 🐳 **DevOps Enthusiast**: Experienced in deploying on **AWS (EC2, RDS, S3)**, Dockerization, and **CI/CD** automation.
 - 💬 I believe in writing clean, maintainable code and building impactful digital products.
@@ -85,7 +84,6 @@
 - 🎨 **Creative Developer**: I use my graphic design background to build highly intuitive user interfaces.
 - 🚀 **Optimization Freak**: I love finding ways to make my backend response time faster.
 - 🌱 **Continuous Learner**: Currently diving deeper into microservices and system design.
-- 🎯 **Reliability**: 8+ years of professional experience meeting strict deadlines with high-quality output.
 
 ---
 
