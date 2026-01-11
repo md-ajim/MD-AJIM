@@ -11,28 +11,33 @@
 ---
 
 <div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <p>
+    <a href="https://github.com/md-ajim">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=9f9f9f&icon_color=38BDF8&include_all_commits=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/md-ajim">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=9f9f9f" alt="Top Languages" />
+    </a>
+  </p>
   
-### 📊 GitHub Analytics
-  
-| <img src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&include_all_commits=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=ffffff" alt="Top Languages" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" /> |
-
+  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ⚡ **Full-Stack Developer** with a focus on building secure and scalable production-grade applications.
-- 🛠️ Expert in **Django REST Framework** & **Next.js (App Router)**.
-- 🚀 **Performance Driven**: Specialized in optimizing database efficiency through Django ORM (**select_related/prefetch_related**).
-- 🐳 **DevOps Enthusiast**: Experienced in deploying on **AWS (EC2, RDS, S3)**, Dockerization, and **CI/CD** automation.
-- 💬 I believe in writing clean, maintainable code and building impactful digital products.
+I am a **Full-Stack Developer** focused on building secure, scalable, and production-grade applications. I bridge the gap between complex backend logic and intuitive frontend design.
+
+- 🛠️ **Core Stack:** Expert in **Django REST Framework** & **Next.js (App Router)**.
+- 🚀 **Performance:** Specialized in database optimization using Django ORM (**select_related/prefetch_related**) to reduce query time.
+- 🐳 **DevOps:** Experienced in **AWS (EC2, RDS, S3)**, Docker containerization, and **CI/CD** automation pipelines.
+- 💬 **Philosophy:** I believe in writing clean, maintainable code that drives real business value.
 
 ---
 
-## 💻 Tech Stack I Love Working With
+## 💻 Tech Stack
 
 ### 🧠 Languages & Backend
 <p>
@@ -79,13 +84,11 @@
 
 ---
 
-## 🌟 Fun & Personal Facts
+## 🌟 Personal Info
 
-- 🎨 **Creative Developer**: I use my graphic design background to build highly intuitive user interfaces.
-- 🚀 **Optimization Freak**: I love finding ways to make my backend response time faster.
-- 🌱 **Continuous Learner**: Currently diving deeper into microservices and system design.
-
----
+- 🎨 **Creative Developer**: Leveraging my graphic design background to build highly intuitive UIs.
+- 🚀 **Optimization Enthusiast**: I enjoy refactoring code to improve backend response times.
+- 🌱 **Current Focus**: Diving deeper into microservices architecture and advanced system design.
 
 <div align="center" style="margin-top: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+build+something+scalable+together+🚀" alt="Closing" />
