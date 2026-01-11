@@ -86,7 +86,6 @@ I am a **Full-Stack Developer** focused on building secure, scalable, and produc
 
 ## 🌟 Personal Info
 
-- 🎨 **Creative Developer**: Leveraging my graphic design background to build highly intuitive UIs.
 - 🚀 **Optimization Enthusiast**: I enjoy refactoring code to improve backend response times.
 - 🌱 **Current Focus**: Diving deeper into microservices architecture and advanced system design.
 
