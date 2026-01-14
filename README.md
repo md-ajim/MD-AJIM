@@ -77,15 +77,6 @@ I am an innovative **Full-Stack Developer** with **2+ years of experience** arch
 </p>
 
 ---
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Shoplentic** | Enterprise E-Commerce Platform with SEO-optimized SSR, dynamic filtering, and Stripe payments. Deployed on **AWS EC2**. | Django, Next.js, MySQL, Docker, AWS S3 |
-| **Advanced Filter System** | High-performance product filtering engine resolving N+1 query problems with sub-second response times. | DRF, Redis, Postgres, React |
-| **Secure Auth System** | Full-stack authentication module featuring JWT, Google OAuth, and OTP-based password resets. | Next-Auth, Django, Axios |
-
 ---
 
 ## 📜 Certifications
