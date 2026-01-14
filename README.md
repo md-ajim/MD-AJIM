@@ -1,79 +1,100 @@
+<h1 align="center">👋 Hi there! I'm MD AJIM</h1>
+
+<p align="center">
+  🎯 Full Stack Developer | ☁️ DevOps Enthusiast | 🔐 Auth Specialist | 🛒 E-commerce Architect
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/md-ajim-a3a7b027a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdajim2669@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## <div align="center">📈 GitHub Metrics</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+MD+AJIM" alt="Greeting" />
-  
-  <p>
-    <img src="https://img.shields.io/badge/💻-Full Stack Developer-38BDF8?style=flat" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/🧠-Django%20|%20DRF%20|%20Next.js-38BDF8?style=flat" alt="Specialties" />
-    <img src="https://img.shields.io/badge/🚀-Cloud & DevOps-38BDF8?style=flat" alt="DevOps" />
-  </p>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=algolia&hide_border=true&bg_color=00000000) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Streak Stats](https://streak-stats.demolab.com?user=md-ajim&theme=algolia&hide_border=true)                                                                        | ![Profile Views](https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=0e75b6&style=flat)                                              |
+
 </div>
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <p>
-    <a href="https://github.com/md-ajim">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=md-ajim&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=9f9f9f&icon_color=38BDF8&include_all_commits=true" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/md-ajim">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=9f9f9f" alt="Top Languages" />
-    </a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=md-ajim&label=Profile+Views&color=38BDF8&style=flat" alt="Profile Views" />
-</div>
+### 🧑‍💻 About Me
+I am an innovative **Full-Stack Developer** with **2+ years of experience** architecting secure, scalable web applications. Based in **Barisal, Bangladesh**, I specialize in building high-performance backends with **Django** and dynamic frontends with **Next.js**.
+
+- 🔭 I’m currently working on **Enterprise E-Commerce Platforms & DevOps Automation**
+- ☁️ Extensive experience in **AWS (EC2, RDS, S3)**, **Docker**, and **CI/CD Pipelines**
+- 🛠️ I solve problems using **Python, TypeScript, and SQL Optimization**
+- 🎨 Skilled in UI/UX implementation using **Shadcn UI & Tailwind CSS**
+- ⚡ Fun fact: I have a background in Professional Graphic Design (8+ years)!
 
 ---
 
-## 👨‍💻 About Me
+## 💻 Tech Stack & Tools
 
-I am a **Full-Stack Developer** focused on building secure, scalable, and production-grade applications. I bridge the gap between complex backend logic and intuitive frontend design.
-
-- 🛠️ **Core Stack:** Expert in **Django REST Framework** & **Next.js (App Router)**.
-- 🚀 **Performance:** Specialized in database optimization using Django ORM (**select_related/prefetch_related**) to reduce query time.
-- 🐳 **DevOps:** Experienced in **AWS (EC2, RDS, S3)**, Docker containerization, and **CI/CD** automation pipelines.
-- 💬 **Philosophy:** I believe in writing clean, maintainable code that drives real business value.
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages & Backend
+### 🚀 Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### 🎨 Frontend Frameworks
+### ☁️ Cloud & DevOps (My Specialty)
 <p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+### 💾 Databases & Security
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-0A0A0A?style=for-the-badge"/>
+</p>
+
+### 🎨 Design & UI
+<p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shadcn_UI-0EA5E9?style=for-the-badge"/>
-</p>
-
-### 🔐 Auth, Security & Payment
-<p>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</p>
-
-### 🧰 Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-FFB000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Shoplentic** | Enterprise E-Commerce Platform with SEO-optimized SSR, dynamic filtering, and Stripe payments. Deployed on **AWS EC2**. | Django, Next.js, MySQL, Docker, AWS S3 |
+| **Advanced Filter System** | High-performance product filtering engine resolving N+1 query problems with sub-second response times. | DRF, Redis, Postgres, React |
+| **Secure Auth System** | Full-stack authentication module featuring JWT, Google OAuth, and OTP-based password resets. | Next-Auth, Django, Axios |
+
+---
+
+## 📜 Certifications
+* **Django Certification** - Simplilearn (2025)
+* **Full-Stack Web Development** - Interactive Cares (2021)
+
+---
+
+## 📫 Let's Connect!
 
 <p>
   <a href="https://ajim-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel"/></a>
@@ -84,6 +105,8 @@ I am a **Full-Stack Developer** focused on building secure, scalable, and produc
 
 ---
 
+Thanks for stopping by!  
+*Let’s build scalable solutions together.* 🚀
 ## 🌟 Personal Info
 
 - 🚀 **Optimization Enthusiast**: I enjoy refactoring code to improve backend response times.
