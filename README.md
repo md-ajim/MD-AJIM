@@ -37,7 +37,7 @@ I am a **Full-Stack Developer** with a focus on architecting secure, high-perfor
 `AWS (EC2, S3, RDS)` `Docker` `GitHub Actions (CI/CD)` `Ubuntu/Linux` `Vercel`
 
 ### 🔐 Security & Data
-`PostgreSQL` `MySQL` `JWT Authentication` `NextAuth.js` `Bcrypt` `OAuth`
+`PostgreSQL` `MySQL` `JWT Authentication` `NextAuth.js`  `OAuth`
 
 ### 🎨 Frontend & Design
 `Tailwind CSS` `Shadcn UI` `Framer Motion` `Adobe Creative Suite`
