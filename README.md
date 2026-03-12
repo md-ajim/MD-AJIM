@@ -54,5 +54,5 @@ Currently, my core focus is driving the development of enterprise e-commerce pla
   <img src="https://img.shields.io/badge/Docker-252934?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-252934?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-252934?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-252934?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-252934?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
