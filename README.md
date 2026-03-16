@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> *"3+ years of robust Full-Stack Engineering to architect scalable, enterprise-grade applications."*
+ *"3+ years of robust Full-Stack Engineering to architect scalable, enterprise-grade applications."*
 
 </div>
 
