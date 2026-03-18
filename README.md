@@ -1,6 +1,6 @@
 <div align="center">
 
-# MD AJIM
+# AJIM
 #### Full-Stack Developer & Cloud Architect
 
 <p align="center">
