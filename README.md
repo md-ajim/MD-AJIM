@@ -23,9 +23,9 @@
 
 ## ✦ Executive Summary
 
-I specialize in designing and deploying high-performance web ecosystems. By combining deep technical expertise in **Python/Django** and **Next.js** with a strong foundation in cloud infrastructure (**AWS, Docker**), I build applications that are secure, highly available, and visually exceptional. 
+I specialise in designing and deploying high-performance web ecosystems. By combining deep technical expertise in **Python/Django** and **Next.js** with a strong foundation in cloud infrastructure (**AWS, Docker**), I build applications that are secure, highly available, and visually exceptional. 
 
-Currently, my core focus is driving the development of enterprise e-commerce platforms, managing complex Nginx reverse proxies, and optimizing CI/CD pipelines for seamless production deployments.
+Currently, my core focus is driving the development of enterprise e-commerce platforms, managing complex Nginx reverse proxies, and optimising CI/CD pipelines for seamless production deployments.
 
 <br/>
 
