@@ -33,7 +33,7 @@ Beyond writing code, I specialize in deploying scalable infrastructure on **AWS*
 
 ### ❯ Backend & Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,drf,celery,redis" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis" />
 </p>
 **Core Stack:** Python, Django, Django REST Framework (DRF), Celery, Redis.
 
