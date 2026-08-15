@@ -45,7 +45,7 @@ Beyond writing code, I specialize in deploying scalable infrastructure on **AWS*
 
 ### ❯ DevOps, Cloud & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,ubuntu git,github," />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,ubuntu git,github" />
 </p>
 **Core Stack:** AWS (EC2, RDS, S3, CloudFront), Docker, Nginx, GitHub Actions, Ubuntu Server.
 
