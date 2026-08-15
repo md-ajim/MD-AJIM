@@ -39,13 +39,13 @@ Beyond writing code, I specialize in deploying scalable infrastructure on **AWS*
 
 ### ❯ Frontend & UI Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" />
 </p>
 **Core Stack:** TypeScript, Next.js, React, Tailwind CSS, NextAuth.js.
 
 ### ❯ DevOps, Cloud & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,ubuntu git,github," />
 </p>
 **Core Stack:** AWS (EC2, RDS, S3, CloudFront), Docker, Nginx, GitHub Actions, Ubuntu Server.
 
