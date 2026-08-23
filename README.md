@@ -1,7 +1,7 @@
 <div align="center">
 
 ## MD AJIM
-#### Full-Stack Developer | Cloud & DevOps (AWS, Docker)
+#### Full Stack Engineer | Cloud & DevOps (AWS, Docker)
 
 <p align="center">
   <a href="https://linkedin.com/in/md-ajim-a3a7b027a">
