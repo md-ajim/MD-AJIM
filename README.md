@@ -2,7 +2,7 @@
 
 ## MD AJIM
 #### Full Stack Engineer | Cloud & DevOps (AWS, Docker)
-
+![Profile Views](https://komarev.com/ghpvc/?username=md-ajim)
 <p align="center">
   <a href="https://linkedin.com/in/md-ajim-a3a7b027a">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
