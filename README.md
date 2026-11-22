@@ -56,3 +56,4 @@ Beyond writing code, I specialize in deploying scalable infrastructure on **AWS*
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,stripe,google" />
 </p>
 **Core Stack:** PostgreSQL, MySQL, Supabase, Stripe, Google (for Gemini API).
+<a href="https://u8views.com/github/md-ajim"><img src="https://u8views.com/api/v1/github/profiles/86977364/views/day-week-month-total-count.svg"></a>
