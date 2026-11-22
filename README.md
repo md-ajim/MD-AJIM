@@ -4,6 +4,7 @@
 #### Full Stack Engineer | Cloud & DevOps (AWS, Docker)
 ![Profile Views](https://komarev.com/ghpvc/?username=md-ajim)
 ![](https://hit.yhype.me/github/profile?account_id=86977364)
+[![MD AJIM profile views](https://u8views.com/api/v1/github/profiles/86977364/views/day-week-month-total-count.svg)](https://u8views.com/github/md-ajim)
 <p align="center">
   <a href="https://linkedin.com/in/md-ajim-a3a7b027a">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
