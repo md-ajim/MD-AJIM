@@ -1,58 +1,117 @@
-<div align="center">
-  
-## MD AJIM
-#### Full Stack Engineer | Cloud & DevOps (AWS, Docker)
-![Profile Views](https://komarev.com/ghpvc/?username=md-ajim)
-![](https://hit.yhype.me/github/profile?account_id=86977364)
-[![MD AJIM profile views](https://u8views.com/api/v1/github/profiles/86977364/views/day-week-month-total-count.svg)](https://u8views.com/github/md-ajim)
-<p align="center">
-  <a href="https://linkedin.com/in/md-ajim-a3a7b027a">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mdajim.work/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mdajim2669@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+ <div align="center">
 
- *"Transforming ideas into fully deployed, scalable, and production-ready web applications."*
+# MD AJIM
+
+### Full Stack Engineer | Django • Next.js • AI • Cloud & DevOps
+
+[![Profile Views](https://komarev.com/ghpvc/?username=md-ajim)](https://github.com/md-ajim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ajim-a3a7b027a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://mdajim.work/)
+[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajim@mdajim.work)
+
+*"Building production-ready software through full-stack engineering, AI integration, and cloud infrastructure."*
 
 </div>
 
-<br/>
+---
 
-## ✦ Executive Summary
+## ✦ Professional Summary
 
-I build production-ready web applications from the ground up, taking full ownership of the entire software development lifecycle. From designing secure, robust backend architectures with **Python/Django** to crafting modern, high-performance frontends with **Next.js**, my focus is on building reliable systems that solve real business problems.
+I'm a **Full Stack Engineer** focused on designing, developing, and deploying production-ready web applications. I work across the entire software development lifecycle, from backend architecture and database engineering to frontend implementation, AI integration, and cloud infrastructure.
 
-Beyond writing code, I specialize in deploying scalable infrastructure on **AWS**, automating CI/CD pipelines, and integrating complex features like Stripe payments, advanced authentication (JWT, OAuth), and AI models via the Gemini API. My ultimate goal is to deliver software that is not only highly functional but also scalable, secure, and easy to maintain.
+My primary engineering stack includes **Python, Django, Django REST Framework, Next.js, React, and TypeScript**. I also work with multi-provider AI integrations, LLM gateways, classical machine learning pipelines, payment systems, and secure authentication architectures.
 
-<br/>
+Beyond application development, I work with **AWS, Docker, Nginx, and GitHub Actions** to build, deploy, and maintain production-oriented systems.
 
-## ✦ Technical Arsenal
+My engineering focus is on building software that is scalable, secure, maintainable, and designed to solve real-world business problems.
 
-### ❯ Backend & Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis" />
+## ✦ Technical Skills
+
+### ❯ Backend Development & API Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,redis,postgres,mysql" />
 </p>
-**Core Stack:** Python, Django, Django REST Framework (DRF), Celery, Redis.
 
-### ❯ Frontend & UI Engineering
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,shadcnui" />
-</p>
-**Core Stack:** TypeScript, Next.js, React, Tailwind CSS, NextAuth.js.
+- Python, Django, Django REST Framework (DRF)
+- REST API Design & Backend Architecture
+- Celery & Redis for Distributed Task Processing
+- SimpleJWT, OAuth 2.0 & Authentication Systems
+- Database Schema Design & Query Optimization
 
-### ❯ DevOps, Cloud & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,nginx,githubactions,ubuntu,git,github" />
-</p>
-**Core Stack:** AWS (EC2, RDS, S3, CloudFront), Docker, Nginx, GitHub Actions, Ubuntu Server.
+### ❯ Frontend Development & UI Engineering
 
-### ❯ Databases & Integrations
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,stripe,google" />
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" />
 </p>
-**Core Stack:** PostgreSQL, MySQL, Supabase, Stripe, Google (for Gemini API).
+
+- Next.js (App Router), React, TypeScript
+- Tailwind CSS & Shadcn/UI
+- NextAuth.js & Server Components
+- Responsive UI Development
+- Technical SEO & Performance Optimization
+
+### ❯ AI Engineering & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+- Multi-Provider LLM Integration & AI Gateway Architecture
+- OpenAI, Anthropic, Google Gemini, DeepSeek, Qwen, Mistral, Llama, OpenRouter & Ollama
+- Server-Sent Events (SSE) Streaming & Model Routing
+- Vision Processing, AI Image Generation & Editing
+- ComfyUI, Hugging Face & rembg
+- Classical Machine Learning: Linear Regression, Decision Trees, Random Forest, KNN & K-Means
+- scikit-learn & Background ML Processing
+
+### ❯ Cloud, DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,ubuntu,githubactions,git,github" />
+</p>
+
+- AWS: EC2, S3, RDS, VPC, IAM, Lambda, Route 53, Amplify & CloudFront
+- Docker & Docker Compose
+- Nginx Reverse Proxy & Cloudflare Tunnel
+- GitHub Actions & CI/CD Automation
+- Linux Server Administration (Ubuntu, Fedora)
+- SSH, Production Deployment & Server Maintenance
+- Environment & Secrets Management
+
+### ❯ Databases, Security & Integrations
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis" />
+</p>
+
+- PostgreSQL, MySQL, SQLite, Supabase & Neon
+- JWT, OAuth 2.0 & Google/GitHub Authentication
+- OTP Email Verification & Session Security
+- Stripe, bKash & Nagad Payment Integrations
+- Webhooks, HMAC Verification & Idempotency
+- Redis Rate Limiting & Distributed Locking
+
+---
+
+## ✦ Engineering Interests
+
+- Full-Stack Application Architecture
+- AI Engineering & Multi-Model Systems
+- Machine Learning Integration
+- Cloud Infrastructure & DevOps
+- Distributed Systems & Background Processing
+- Secure Payment & Authentication Architectures
+- Scalable SaaS Product Development
+---
+
+<div align="center">
+
+### Let's Build Something Meaningful
+
+**Open to Full Stack Engineering, AI Engineering, and Cloud/DevOps opportunities.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-md--ajim-181717?style=for-the-badge&logo=github)](https://github.com/md-ajim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mdajim.work-0f172a?style=for-the-badge&logo=vercel)](https://mdajim.work/)
+
+</div>
