@@ -17,7 +17,7 @@
 
 ##  Professional Summary
 
-I'm a **Full Stack Engineer** focused on designing, developing, and deploying production-ready web applications. I work across the entire software development lifecycle, from backend architecture and database engineering to frontend implementation, AI integration, and cloud infrastructure.
+I'm a **Full Stack Engineer** focused on designing, developing, and deploying production-ready web applications. I work across the entire software development lifecycle, from backend architecture and database integration & management to frontend implementation, AI integration, and cloud infrastructure.
 
 My primary engineering stack includes **Python, Django, Django REST Framework, Next.js, React, and TypeScript**. I also work with multi-provider AI integrations, LLM gateways, classical machine learning pipelines, payment systems, and secure authentication architectures.
 
