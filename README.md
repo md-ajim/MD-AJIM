@@ -15,7 +15,7 @@
 
 ---
 
-## ✦ Professional Summary
+##  Professional Summary
 
 I'm a **Full Stack Engineer** focused on designing, developing, and deploying production-ready web applications. I work across the entire software development lifecycle, from backend architecture and database engineering to frontend implementation, AI integration, and cloud infrastructure.
 
@@ -25,7 +25,7 @@ Beyond application development, I work with **AWS, Docker, Nginx, and GitHub Act
 
 My engineering focus is on building software that is scalable, secure, maintainable, and designed to solve real-world business problems.
 
-## ✦ Technical Skills
+##  Technical Skills
 
 ### ❯ Backend Development & API Engineering
 
