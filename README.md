@@ -105,7 +105,7 @@ My engineering focus is on building software that is scalable, secure, maintaina
 - Scalable SaaS Product Development
 ---
 
-<div align="center">
+<div align="">
 
 ### Let's Build Something Meaningful
 
