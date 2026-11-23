@@ -45,7 +45,7 @@ My engineering focus is on building software that is scalable, secure, maintaina
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" />
 </p>
 
-- Next.js (App Router), React, TypeScript
+- JavaScript, Next.js (App Router), React, TypeScript
 - Tailwind CSS & Shadcn/UI
 - NextAuth.js & Server Components
 - Responsive UI Development
