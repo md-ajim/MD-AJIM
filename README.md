@@ -94,7 +94,7 @@ My engineering focus is on building software that is scalable, secure, maintaina
 
 ---
 
-## ✦ Engineering Interests
+##  Engineering Interests
 
 - Full-Stack Application Architecture
 - AI Engineering & Multi-Model Systems
