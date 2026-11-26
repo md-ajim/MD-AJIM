@@ -2,7 +2,7 @@
 
 # MD AJIM
 
-### Full Stack Engineer | Django • Next.js • AI • Cloud & DevOps
+### Full-Stack Software engineer | Django • Next.js • AI • Cloud & DevOps
 
 [![Profile Views](https://komarev.com/ghpvc/?username=md-ajim)](https://github.com/md-ajim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ajim-a3a7b027a)
